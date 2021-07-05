@@ -318,7 +318,7 @@ footer .footer-content .four .icon {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  border: 1px solid var(--footer-pale-cyan);
+  border: 1.6px solid var(--footer-pale-cyan);
   transition: 0.1s;
   cursor: pointer;
   display: flex;
